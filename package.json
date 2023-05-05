@@ -1,17 +1,19 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "theme-Template",
+    "name": "gh-ShayLynia-theme-Template",
+    "description": "phcode theme template",
     "version": "0.0.1",
-    "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "license": "MIT License",
+    "author": "ShayLynia",
+    "homepage": "https://github.com/ShayLynia/theme-Template",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode",
+        "theme",
+        "demo"
     ],
     "theme": {
         "file": "my-theme.less",
